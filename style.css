@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+}
+.p {
+    font-size: 18px;
+}
+.her{
+margin: 0 0 10px 10px;
+font-size: 19px;
+line-height: 30px;
+}
+.str{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+    margin: 0 auto 1em;
+    width: 75%;
+    font-size: 18px;
+}
+#q{
+    border-radius: 100px;
+    width: 400px;
+    height: 400px;
+}
+#w{
+    border-radius: 100px;
+    width: 400px;
+    height: 300px;
+    margin-bottom: 6px;
+}
+#width{
+    max-width: 720px;
+}
+#main{
+    display: grid;
+}
+.container{
+    line-height: 28px;
+}
+img{
+    max-width: 800px;
+    max-height: 800px;
+}
+
+
